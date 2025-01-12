@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
+ROCK ON!
+
 import pycurl
 import re
 from io import BytesIO
